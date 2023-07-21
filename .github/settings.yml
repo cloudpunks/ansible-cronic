@@ -1,6 +1,6 @@
 ---
 repository:
-  name: cronic
+  name: ansible-cronic
   description: Ansible role to install the cronic executable
   topics: ansible, role, ansible-role, hacktoberfest
 
